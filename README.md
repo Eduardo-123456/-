@@ -13,7 +13,7 @@
                         <ul>
                         <li><a href="index.html">INICIO</a></li>                                                    
                         <li><a href="https://wa.me/qr/UECKUOH36TMPB1">CONSULTAR</a></li>
-                            <li><a href="#https://wa.me/qr/UECKUOH36TMPB1">TAXI</a></li>
+                            <li><a href="https://wa.me/qr/UECKUOH36TMPB1">TAXI</a></li>
                             <li><a href="https://wa.me/qr/UECKUOH36TMPB1">RESERVAR</a></li>
                           
                             <div id="myNav" class="overlay">
