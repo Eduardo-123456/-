@@ -188,7 +188,7 @@
     <BODY BGCOLOR="BLACK">
 
     function closeNav() {
-   document.getElementById("myNav").style.width = "0%";
+   document.getElementById("myNav").style.width = "100";
    }
 </script>  
  
