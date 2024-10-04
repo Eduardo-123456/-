@@ -1,4 +1,5 @@
 <BODY BGCOLOR="BLACK">
+	
 <body>
     <!--header section start -->
     <div id="index.html" class="header_section">
@@ -184,6 +185,7 @@
     function openNav() {
     document.getElementById("myNav").style.width = "100%";
     }
+    <BODY BGCOLOR="BLACK">
 
     function closeNav() {
    document.getElementById("myNav").style.width = "0%";
