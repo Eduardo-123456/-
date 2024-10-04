@@ -1,4 +1,4 @@
-
+<BODY BGCOLOR="BLACK">
 <body>
     <!--header section start -->
     <div id="index.html" class="header_section">
@@ -26,8 +26,7 @@
                 </div>
                 </div>
           <span  style="font-size:33px;cursor:pointer; color: #ffffff;" onclick="openNav()"><img src="images/buscar.png" class="toggle_menu"></span>
-                </div>  
-                </li>
+              
                         </ul>
                     </div>
             </div>
@@ -191,4 +190,4 @@
    }
 </script>  
  
-</body>
+
