@@ -1,7 +1,4 @@
-<body bgcolor="sky blue">
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MI PAGINA WEED  DE P </title>
+
   <style>
     body {
       margin: 0;
@@ -16,14 +13,14 @@
     /* estilo parar la base del menu */
     .topnav {
       overflow: hidden;
-      background-color: #333;
+      background-color: BLACK;
     }
 
     /* Enlaces del menu */
     .topnav a {
       float: left;
       display: block;
-      color: #F2F2F2;
+      color: RED;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -31,8 +28,8 @@
 
     /* Animacion para el menu */
     .topnav a:hover {
-      background-color: #ddd;
-      color: black
+      background-color: BLACK;
+      color: BLACK
     }
 
     /* Estilo para columnas */
@@ -65,7 +62,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color: #f1f1f1;
+      background-color: BLACK;
       padding: 30px;
       text-align: center;  
     }
