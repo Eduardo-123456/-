@@ -2,7 +2,7 @@
 /* estilo*/
 .topnav{
 overflow: hidden;
-<BODY BGCOLOR="BLUE">
+background-color: BLACK
 	}
 <body>
     <!--header section start -->
