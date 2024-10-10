@@ -1,14 +1,5 @@
 
   <style>
-    body {
-      margin: 0;
-    }
-
-    .header {
-      padding: 5,0px;
-      RED-color: #f1f1f1;
-      text-align: center;
-    }
 
     /* estilo parar la base del menu */
     .topnav {
@@ -32,20 +23,7 @@
       color: BLACK
     }
 
-    /* Estilo para columnas */
-    .row__column {
-      float: left;
-      padding: 20px;
-    }
-
-    .row__column.side {
-      width: 25%;
-    }
-
-    .row__column.middle {
-      width: 36%;
-    }
-
+  
     /* Contenido deje de ser flotante */
     .row::after {
       content: "";
