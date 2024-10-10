@@ -1,9 +1,6 @@
-}
-/* estilo*/
-.topnav{
-overflow: hidden;
+
 background-color: BLACK
-	}
+
 <body>
     <!--header section start -->
     <div id="index.html" class="header_section">
