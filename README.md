@@ -28,38 +28,6 @@
 
 </head>
 
-    /* Animacion para el menu */
-    .topnav a:hover {
-      background-color: BLACK;
-      color: BLACK
-    }
-
-  
-    /* Contenido deje de ser flotante */
-    .row::after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-
-    /* Plantilla responsiva */
-    @media screen and (max-width: 600px) {
-      .row__column {
-        width: 100%;
-      }
-    }
-
-    /* Pie de pagina */
-    .footer {
-      background-color: BLACK;
-      padding: 30px;
-      text-align: center;  
-    }
-	
-	<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
-	
-  </style>
-
 
 <body>
     <!--header section start -->
